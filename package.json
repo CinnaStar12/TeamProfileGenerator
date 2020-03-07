@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "test"
   },
   "dependencies": {
     "inquirer": "^7.0.6"
